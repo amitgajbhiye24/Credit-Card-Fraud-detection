@@ -1,4 +1,5 @@
-**Credit Card Fraud Detection**
+*Credit Card Fraud Detection*\
+
 ***Problem statement***
 In this project we need to predict fraudulent credit card transactions with the help of machine learning models.
 
